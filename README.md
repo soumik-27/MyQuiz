@@ -32,5 +32,5 @@ Emits events so frontends or indexers can track updates.
 
 🚀 Deployed Smart Contract Link
 
-Deployed Smart Contract Address: 0xe63B60396b09bE656c8847978566d1c508C3c9f0
+Deployed Smart Contract Address: https://celo-sepolia.blockscout.com/tx/0xc6bd6b7cffe1bf953186a166ac8558a34117355d5b176bbda8ac8c1e7f943e0b
 <img width="1896" height="862" alt="Screenshot 2025-10-29 141350" src="https://github.com/user-attachments/assets/d3fe3882-4bb8-44db-997f-899e3337d265" />
